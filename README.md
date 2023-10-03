@@ -34,7 +34,7 @@
 ## Output:
 ![image](https://github.com/Udhayasankaran04/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393933/361477e6-6c49-4afe-91a5-a36f81061242)
 
-### Name:M UDHAYA SANKARAN
+### Name: M UDHAYA SANKARAN
 ### Register Number:212222110051
 
 ## Result: 
